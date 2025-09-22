@@ -56,4 +56,5 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is:
 
-    -    \<1%
+    -   \<1%
+    -   

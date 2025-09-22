@@ -11,7 +11,7 @@ Quarto is a powerful tool for creating dynamic documents that combine text, code
 
 ------------------------------------------------------------------------
 
-## Integrating Code and Text 
+## Integrating Code and Text
 
 Find area of a circle with radius 5 cm.
 
@@ -35,3 +35,25 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 ## Inserting an Image in Quarto Document
 
 ![](images/clipboard-3760563717.png)
+
+------------------------------------------------------------------------
+
+## Worksheet 2 09/22/2025
+
+![](images/ss_table.png)
+
+1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+    -   59
+
+2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+    a\. 95% confidence in detecting a disease at 1% prevalence in a large population
+
+    b\. 99% confidence in detecting a disease at 2% prevalence in a large population.
+
+    -   When comparing the different prevalence of large populations, the 1% prevalence is going to be double that of the 2% prevalence. This becomes much more accurate when the population size is 2500 or larger, however there is still a large gap between smaller population sizes when comparing those prevalence values.
+
+3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is:
+
+    -    \<1%

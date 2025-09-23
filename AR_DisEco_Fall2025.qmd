@@ -48,11 +48,12 @@ cat("The area of the circle with radius", radius, "is", circle_area, "\n")
 
 2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
 
-    a\. 95% confidence in detecting a disease at 1% prevalence in a large population
+    a\. 95% confidence in detecting a disease at 1% prevalence in a large population.
 
     b\. 99% confidence in detecting a disease at 2% prevalence in a large population.
 
-    -   When comparing the different prevalence of large populations, the 1% prevalence is going to be double that of the 2% prevalence. This becomes much more accurate when the population size is 2500 or larger, however there is still a large gap between smaller population sizes when comparing those prevalence values.
+    -   When comparing the different prevalence of large populations, the 1% prevalence sample size requirement is going to be double that of the 2% prevalence. This becomes much more accurate when the population size is 2500 or larger, however there is still a large gap between smaller population sizes when comparing those prevalence values.
+    -   When looking at an Infinite population with 1% prevalence, the sample size requirement would be 299, while the sample size for 2% prevalence in an infinite population would be 149.
 
 3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is:
 

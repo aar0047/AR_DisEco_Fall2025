@@ -199,8 +199,7 @@ R~eff~= R0 x S
 
     2.  Infected and diseased
         -   This state is possible. For example, moose infected with *Parelaphostronglyus tenuis* larvae often show weakness and neurological signs of disease due to infection.
-    3.   Not infected but diseased
-        -   This state is not possible. This is not possible because to be diseased you must first become infected. Without infection by a transmissible pathogen, disease cannot occur because disease is mainly the symptoms and distress exhibited due to infection.
+    3.  Not infected but diseased - This state is not possible. This is not possible because to be diseased you must first become infected. Without infection by a transmissible pathogen, disease cannot occur because disease is mainly the symptoms and distress exhibited due to infection.
 
     For each state, explain your reasoning and support your answer with at least one example from human or wildlife disease systems. If you believe a particular state is *not possible*, justify why with clear reasoning.
 
@@ -301,3 +300,34 @@ Prevalence is highest in 2017.
     Herd Immunity threshold: 1- 1/R0 : 0.67
 
     67% of the total population must be immune to prevent outbreak. Since 20% of the population is already naturally immune, then 47% of the susceptible population must be vaccinated to prevent outbreak and achieve herd immunity.
+
+------------------------------------------------------------------------
+
+## Worksheet 4 10/23/2025
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care-associated outbreaks. Humans MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 - September 2025 (European Centre for Disease Prevention and Control)
+
+![Which of the following statements about MERS-CoV are correct? (*if incorrect, provide an explanation why the statement is correct.)* ](images/clipboard-3968567455.png)
+
+1.  MERS-CoV is primarily maintained in human populations.
+    -   Incorrect. MERS-CoV is not primarily maintained in human populations. Human-to-human transmission rates are low because MERS-CoV is mainly transmitted from camel to camel, and if MERS-CoV is transmitted to a human host it is not sustained in the population. Direct human contact with a camel can lead to transmission originating from spillover.
+2.  Camels serve as the main animal reservoir for MERS-CoV.
+    -   Correct.
+3.  Humans are dead-end hosts for MERS-CoV.
+    -   Incorrect. In this case human-to-human transmission is very limited and when this virus is transmitted it is not sustained in the human population, however since there is still transmission between humans we cannot say humans are a dead-end host, rather they are the transient hosts.
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%.
+    -   Incorrect. Approximately 35% of reported cases were fatal.
+5.  The epidemic curve shows a point source outbreak.
+    -   Incorrect. The epidemic curve shows sporadic outbreaks or repeated waves and not a single point of exposure, which would have been the point source outbreak. This is mainly due to the fact that camel-to-human transmission is due to spillover events, and human-to-human transmission is limited and not sustained.
+6.  Global MERS cases have declined sharply since 2019. Why do you think this decline occurred? Discuss possible ecological, epidemiological, and behavioral factors that may have contributed to this trend.
+    -   MERS cases have shown a rapid decline since 2019, which suggests there have been a decline in human and camel interactions that follow that timeline. This could be due to the Covid 19 pandemic that really took hold beginning in 2019 and running rampant in 2020 which caused a pause on any travel, international or domestic, as well as quarantining kept everyone away from each other which could have stopped that human-to-human transmission.
+
+    -   The transmission of the disease in humans was much more prevalent in hospital settings, so with the increased PPE implemented for Covid 19, this could prevent transmission as well.
+
+    -   It has also been reported that there is an increase of surveillance on this disease and its transmission, and protocols have been developed for cases that do arise to ensure the transmission is kept to a minimum through following these protocols.
+
+Additional information regarding MERS-CoV was obtained through: <https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus/factsheet?utm_source=chatgpt.com>

@@ -256,7 +256,7 @@ One red is infected with no secondary infected. R~0~ : 0. This means there is no
 11. Steve studies a population of the Suwannee Alligator Snapping turtle (*Macrochelys suwanniensis*) in Florida. He has been conducting a mark-recapture study of this population since 2010.  Since 2015, he has documented cases of cutaneous fibroma in this population. The following data was collected by Steve:
 
     | Year | Population Estimate | Turtles with fibroma: old cases | Turtles withfibroma: new cases |
-    |-------------------|------------------|------------------|------------------|
+    |------------------|------------------|------------------|------------------|
     | 2015 | 133 | 0 | 4 |
     | 2016 | 125 | 2 | 5 |
     | 2017 | 112 | 4 | 8 |
@@ -311,7 +311,7 @@ Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camel
 
 Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 - September 2025 (European Centre for Disease Prevention and Control)
 
-![Which of the following statements about MERS-CoV are correct? (*if incorrect, provide an explanation why the statement is correct.)* ](images/clipboard-3968567455.png)
+![Which of the following statements about MERS-CoV are correct? (*if incorrect, provide an explanation why the statement is correct.)*](images/clipboard-3968567455.png)
 
 1.  MERS-CoV is primarily maintained in human populations.
     -   Incorrect. MERS-CoV is not primarily maintained in human populations. Human-to-human transmission rates are low because MERS-CoV is mainly transmitted from camel to camel, and if MERS-CoV is transmitted to a human host it is not sustained in the population. Direct human contact with a camel can lead to transmission originating from spillover.
@@ -331,3 +331,19 @@ Distribution of confirmed cases of MERS by place of infection and month of onset
     -   It has also been reported that there is an increase of surveillance on this disease and its transmission, and protocols have been developed for cases that do arise to ensure the transmission is kept to a minimum through following these protocols.
 
 Additional information regarding MERS-CoV was obtained through: <https://www.ecdc.europa.eu/en/middle-east-respiratory-syndrome-coronavirus/factsheet?utm_source=chatgpt.com>
+
+------------------------------------------------------------------------
+
+## Worksheet 5 11/03/2025
+
+**Marburg Virus Outbreak, Rwanda 2024**
+
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging infectious disease? Justify your classification.
+
+    -   By using the community epidemiology framework, I consider the Marburg virus outbreak in Rwanda a spillover event. A spillover event is when a pathogen's resevoir host is an animal, and close contact with humans will cause the transmission, but continued transmission from human to human is not well sustained, and the humans in this situation are most likely dead-end or transient hosts. Also, the human to human transmission was contained to healthcare workers in the ICU, with only 66 cases being documented.
+
+2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
+
+    -   Limiting human contact with the known reservoir host, Egyptian rousette bats, can limit any new spillover events for this virus, because if there are no new spillover events then the pathogen cannot be transmitted human to human, and the original spillover event will eventually stop because it is not able to be sustained in human to human transmission. This can be done by blocking off habitats of the bats, limiting cave exploration and mining, and making the public aware of the high risks they would be putting themselves at if they were to come into contact with one of these bats. Along with informing the public, early signs and symptoms can be shared, and infection can be mapped and monitored to quarantine the infected, especially alerting healthcare professionals to take extra measures to ensure their health and safety.

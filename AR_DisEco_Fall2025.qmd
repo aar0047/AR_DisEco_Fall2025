@@ -347,3 +347,55 @@ The first person to become infected in the current Marburg virus outbreak in Rwa
 2.  What measures could be implemented to reduce the risk of transmission in both community and healthcare settings?
 
     -   Limiting human contact with the known reservoir host, Egyptian rousette bats, can limit any new spillover events for this virus, because if there are no new spillover events then the pathogen cannot be transmitted human to human, and the original spillover event will eventually stop because it is not able to be sustained in human to human transmission. This can be done by blocking off habitats of the bats, limiting cave exploration and mining, and making the public aware of the high risks they would be putting themselves at if they were to come into contact with one of these bats. Along with informing the public, early signs and symptoms can be shared, and infection can be mapped and monitored to quarantine the infected, especially alerting healthcare professionals to take extra measures to ensure their health and safety.
+
+------------------------------------------------------------------------
+
+## Worksheet 6 11/10/2025
+
+A new disease, *Vertico,* has been detected in fish in two separate ponds. Your task is to analyze the sample data to determine and compare the disease prevalence between the two ponds.
+
+**Instructions:**
+
+1.  Determine Prevalence
+
+    a\. Use the online tool QPweb to calculate the prevalence of Vertico in each pond.
+
+    b\. Report the prevalence as a percentage
+
+2.  Calculate the 95% confidence Interval
+
+    a\. Use QPweb to calculate the 95% CI for each prevalence estimate.
+
+    b\. Report the CI values as percentages, rounded meaningfully.
+
+3.  Compare the prevalence between the two ponds.
+
+    a\. Perform a Fishers exact test to compare the two prevalence values.
+
+    b\. Report the p-value
+
+    c\. state whether the difference is statistically significant. (p\<0.05, the difference is statistically significant)
+
+**Deliverables:**
+
+For each pond, report the following:
+
+-   Prevalence (%)
+
+    -   Pond1: 30%
+
+    -   Pond2 6.7%
+
+-   95% Cl (%)
+
+    -   Pond1: Lower: 14%, Upper: 53%
+
+    -   Pond2: Lower: 0.3%, Upper: 30%
+
+-   Fisher's exact test p-value
+
+    -   Two-sided p-value: 0.1987
+
+-   Interpretation ( Is the difference statistically significant?)
+
+    -   This is not statistically significant. The p-value obtained is larger than 0.05, which is the p-value threshold for being either statistically significant, or by chance.

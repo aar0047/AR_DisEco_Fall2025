@@ -399,3 +399,27 @@ For each pond, report the following:
 -   Interpretation ( Is the difference statistically significant?)
 
     -   This is not statistically significant. The p-value obtained is larger than 0.05, which is the p-value threshold for being either statistically significant, or by chance.
+
+------------------------------------------------------------------------
+
+## Worksheet 7 11/16/2025
+
+**Nipah Virus**
+
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission in places like Malaysia and Bangladesh. Describe how the modes of transmission differ between these two regions and explain how these differences influence the preventive measures recommended in each setting.
+
+-   The Nipah virus was originally thought to be transmitted animal to animal to human from close contact with infected animals. However, we now understand there are six different transmission pathways that we can see Nipah virus transmit through. In Malaysia we historically saw animal to animal to human transmission, while in Bangladesh we mainly saw transmission via bats getting into pots of date palm sap and defecating/eating the sap, effectively transmitting the virus that way when humans would consume the sap. So, we have animal to human transmission due to close contact, and then animal to human transmission due to ingestion of waste from the animal. These different modes of transmission will influence different preventitive measures because in Malaysia, we should be taking more precautions when coming in close contact to both bats (the original host) as well as pigs, which pigs are where the main human transmission came from. while in Bangladesh, we should be more cautious in date palm sap collection methods, ensuring bats cannot get into the baskets that collect the sap or be able to defecate into the basket.
+
+**Avian Reovirus**
+
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the different transmission routes of ARV and explain which environmental factors favor its transmission. What pathogen characteristics support one of these transmission routes? Finally, provide an example of a wild bird disease caused by ARV and briefly describe its impact on the affected population.
+
+-   According to the presentation, there are two main routes of transmission for Avian Reovirus: Horizontal fecal-oral, and vertical egg transmission. The fecal-oral route is mainly transmitted between birds through the ingestion of feces, while the egg transmission route is passed from hens directly to their chicks. Environmental factors that favor the disease include humid, cooler climates, in pens that are overcrowded and unhygienic, which will increase the rate of fecal-oral transmission in overcrowded pens with poor hygiene conditions. A major contributor to the transmission route of ARV is its ability to persist in many environmental factors, which other viruses might become much more succeptable to environmental degredation. Finally, an example of a wild bird disease caused by ARV can be winter mortality of crows. This is due to large numbers of crows becoming infected and dying while they roost during the winter. This is especially important because it describes a time in the wild where birds are going to be in close proximity to eachother without being in captivity because they are coming together in the winter to roost. This promotes the spread of winter mortality caused by ARV. This can affect hundreds of crows in the roost each winter.
+
+-   Source: <https://cwhl.vet.cornell.edu/disease/avian-reovirus#collapse17>
+
+**Langya henipavirus**
+
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
+
+-   The bird shrew is going to be the likely reservoir of LayV, and the transmission route is likely a spillover event to humans due to close contact with infected shrews, as well as close contact with bodily fluids. LayV is classified as a spillover event and not an EID because of the data that persists. There is very low prevalence at the population level, with 35 human cases reported, and there are no cases reported outside of China. These infections are sporadic and localized, which correlates more with a sporadic zoonotic infection, not an EID. This is backed up by the fact that there is no real sustained human to human transmission, meaning this disease cannot establish itself within the human population, and cases of human infection will continue to be confined to close direct or indirect contact with shrews or their bodily fluids.

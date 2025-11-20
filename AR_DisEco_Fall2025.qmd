@@ -423,3 +423,79 @@ Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the 
 Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China. Describe the likely reservoir and transmission route of Langya virus. Why is LayV classified as a spillover and not a potential EID?
 
 -   The bird shrew is going to be the likely reservoir of LayV, and the transmission route is likely a spillover event to humans due to close contact with infected shrews, as well as close contact with bodily fluids. LayV is classified as a spillover event and not an EID because of the data that persists. There is very low prevalence at the population level, with 35 human cases reported, and there are no cases reported outside of China. These infections are sporadic and localized, which correlates more with a sporadic zoonotic infection, not an EID. This is backed up by the fact that there is no real sustained human to human transmission, meaning this disease cannot establish itself within the human population, and cases of human infection will continue to be confined to close direct or indirect contact with shrews or their bodily fluids.
+
+------------------------------------------------------------------------
+
+## Worksheet 8 11/19/2025
+
+For raccoon roundworm, 106 raccoon were examined for a better understanding of this disease. Of 106 examined, 50 raccoons were infected, meaning:
+
+prevalence: 47.2%.
+
+Lower CI: 37.4%
+
+Upper CI: 57.1%
+
+These raccoon were examined from three regions, North South and Central. The prevalence from each are as follows:
+
+#### Prevalence (Region): 
+
+-   North: 28.6%
+
+-   South: 62.8%
+
+-   Central: 64.3%
+
+#### 95% CI:
+
+North:
+
+-   Lower: 16.6%, Upper: 43.3%
+
+South:
+
+-   Lower: 46.7%, Upper : 77%
+
+Central:
+
+-   Lower: 35.1%, Upper: 87.2%
+
+These prevalence rates and confidence intervals indicate the north region to have a much lower prevalence than the south and central regions, which have higher prevalence of over half.
+
+#### Prevalence (Sex)
+
+-   Male : 37.7%
+
+-   Female: 64.9%
+
+#### 95% CI:
+
+Male:
+
+-   Lower: 26.3%, Upper: 50.2%
+
+Female:
+
+-   Lower: 47.5%, Upper: 79.8%
+
+which indicates female racoons are much more likely to become infected than male raccoons.
+
+#### Prevalence (Age):
+
+-   Adult: 52.2%
+
+-   young adult: 37.8%
+
+#### 95% CI:
+
+Adult:
+
+-   Lower: 39.8%, Upper: 64.4%
+
+Young Adult:
+
+-   Lower: 22.5%, Upper: 55.2%
+
+which indicates a slightly more prevalent prevalence in adult raccoons than young adult raccoons.
+
+Overall, we can see a high significance in central and southern regions possibly due to raccoon populations in these regions versus the north, as well as a warmer climate that may increase bacterial growth in these regions to persist this dusease. We also see significant sex differences between male and female raccoons, with females having a much higher prevalence of infection, however what we do not really see much significance in is age differences between adults and young adults.

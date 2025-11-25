@@ -438,7 +438,7 @@ Upper CI: 57.1%
 
 These raccoon were examined from three regions, North South and Central. The prevalence from each are as follows:
 
-#### Prevalence (Region): 
+#### Prevalence (Region):
 
 -   North: 28.6%
 
@@ -499,3 +499,81 @@ Young Adult:
 which indicates a slightly more prevalent prevalence in adult raccoons than young adult raccoons.
 
 Overall, we can see a high significance in central and southern regions possibly due to raccoon populations in these regions versus the north, as well as a warmer climate that may increase bacterial growth in these regions to persist this dusease. We also see significant sex differences between male and female raccoons, with females having a much higher prevalence of infection, however what we do not really see much significance in is age differences between adults and young adults.
+
+------------------------------------------------------------------------
+
+## Term Project 2025
+
+**To: The Alabama Department of Public Health**
+
+**From: Ava Roberts**
+
+**Date: November 20, 2025**
+
+**Subject: The Severity of Mpox and Necessary Prevention and Preparedness**
+
+**Background Information**
+
+	Mpox virus is a zoonotic orthopox double stranded DNA virus that is large and enveloped, which assists the virus in evading the immune system of the host (Kaler et al., 2022). This virus was first identified in monkeys used for research, and was eventually transmitted to humans. The natural reservoir of this virus is not completely known, however research is led to believe that originally, small rodents transmitted this virus to humans. Currently, Mpox is endemic in parts of Central and West Africa, and since 2022, has become a rising concern within the World Health Organization (Thornhill et al., 2022). Mpox is understood to have two clades; Clade I and Clade II. According to Di Gennaro et al. (2022), this virus is characterized by “Fever, lymphadenopathy, exanthema, asthenia, weariness, and headache...” (p. 3)
+
+**Transmission pathways:**
+
+-   Human-to-human
+
+-   Contact with contaminated materials
+
+-   Mother-to-child transmission
+
+-   Direct contact with infected animals
+
+The incubation period of Mpox is 3-17 days, and the infectious period is 1-14 days. As of 2022, Mpox has spread outside of Central and West Africa due to the global spread of Clade IIb, which has a higher human-to-human transmission rate. More recently, a new strain of Mpox, Clade Ib, has emerged within Africa with cases reported in Europe, creating additional public health concerns. 
+
+**Implications of an Imported Case**
+
+Given this increase in global circulation of Mpox and the potential for imported cases into the US, the Alabama State Department of Health needs to be prepared for potential spillover from surrounding states, as well as direct importation of Mpox through international travel. Since Mpox is not a current concern within the state of Alabama, the diagnosis of this disease could go unrecognized or misdiagnosed, increasing the risk of transmission from close human-to-human contact within households, healthcare facilities, and college campuses. 
+
+During the 2022 outbreak, men who have sex with men (MSM) were disproportionately infected due to an amplification in transmission through sexual encounters (Delaney, 2022). This newly recognized transmission route highlights the importance of providing stigma-free information to the public so they can better be informed on the causes of transmission, strategies for prevention, and action plans in the case of infection. 
+
+With the increase in the global spread of Mpox, the Birmingham-Shuttlesworth International Airport is an implicated entry point for the importation of Mpox. If this were to be imported into the State of Alabama, college campuses and rural communities may be at risk for sustained transmission due to densely populated campuses, limited access to healthcare, and a lack of education on the virus and its clinical signs of infection. 
+
+**Recommendations for Action**
+
+To reduce the transmission of Mpox and reduce the risk of Mpox importation into Alabama the following should be taken into consideration:
+
+1.  **Improve Education, Surveillance, and Detection for Healthcare Professionals**
+
+-   Improve the education of practicing healthcare professionals in the diagnosis, treatment, and prevention of Mpox. 
+
+-   Provide diagnostic tools to differentiate Mpox from other diseases, as well as provide examples of atypical or mild cases. 
+
+-   Educate employees of the Birmingham-Shuttlesworth International Airport to detect signs of Mpox, encourage reporting suspicious passengers to airport authority on the ground, as well as improve notification of infection for all passengers on infected planes.
+
+-   Encourage notification of the State of Alabama Department of Public Health and the CDC for the most accurate case surveillance and distribution maps, as well as rapid notification of anyone in close contact with the infected individual to contain the spread. 
+
+2.  **Increase Access to Testing and Vaccination**
+
+-   Provide vaccines and tests to healthcare providers, especially within underfunded and rural communities in Alabama, as well as densely populated cities and campuses.
+
+-   Provide instruction to healthcare providers on how to most efficiently provide tests and vaccines to the public. 
+
+3.  **Improve Public Education**
+
+-   Educate the public with stigma-free information regarding Mpox.
+
+-   Utilize social media and community communication channels to rapidly inform the public of the risk of infection and invalidate any misinformation being spread. 
+
+-   Target areas at higher risk such as dense populations and rural communities and educate these areas on clinical signs of Mpox and the importance of getting tested and vaccinated. 
+
+-   Target MSM communities to increase knowledge of clinical signs, where and how to get tested, and the importance of getting tested and vaccinated. 
+
+4.  **Create a Response Plan State-Wide and Locally**
+
+-   Format an appropriate response to the potential of an outbreak at the state level and city level. 
+
+-   Provide city departments of health the proper education and training to effectively respond to an outbreak and prevent further transmission.
+
+-   Evaluate current city-wide and state-wide communication with health centers to identify areas of weakness, and rework any areas to maximize the response and communication between these departments. 
+
+**Conclusion**
+
+Overall, the increase in global transmission of Mpox virus raises concern for the US, and encourages the State of Alabama to prepare accordingly. It is important to increase education of department officials, healthcare providers, and the public, with emphasis towards rural communities, densely populated cities, and MSM communities. With an increase in education and preparedness starting at the city level before cases are detected, the state can ensure the most

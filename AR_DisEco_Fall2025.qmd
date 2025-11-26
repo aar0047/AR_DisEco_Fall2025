@@ -514,7 +514,9 @@ Overall, we can see a high significance in central and southern regions possibly
 
 **Background Information**
 
-	Mpox virus is a zoonotic orthopox double stranded DNA virus that is large and enveloped, which assists the virus in evading the immune system of the host (Kaler et al., 2022). This virus was first identified in monkeys used for research, and was eventually transmitted to humans. The natural reservoir of this virus is not completely known, however research is led to believe that originally, small rodents transmitted this virus to humans. Currently, Mpox is endemic in parts of Central and West Africa, and since 2022, has become a rising concern within the World Health Organization (Thornhill et al., 2022). Mpox is understood to have two clades; Clade I and Clade II. According to Di Gennaro et al. (2022), this virus is characterized by “Fever, lymphadenopathy, exanthema, asthenia, weariness, and headache...” (p. 3)
+```         
+Mpox virus is a zoonotic orthopox double stranded DNA virus that is large and enveloped, which assists the virus in evading the immune system of the host (Kaler et al., 2022). This virus was first identified in monkeys used for research, and was eventually transmitted to humans. The natural reservoir of this virus is not completely known, however research is led to believe that originally, small rodents transmitted this virus to humans. Currently, Mpox is endemic in parts of Central and West Africa, and since 2022, has become a rising concern within the World Health Organization (Thornhill et al., 2022). Mpox is understood to have two clades; Clade I and Clade II. According to Di Gennaro et al. (2022), this virus is characterized by “Fever, lymphadenopathy, exanthema, asthenia, weariness, and headache...” (p. 3)
+```
 
 **Transmission pathways:**
 
@@ -577,3 +579,59 @@ To reduce the transmission of Mpox and reduce the risk of Mpox importation into 
 **Conclusion**
 
 Overall, the increase in global transmission of Mpox virus raises concern for the US, and encourages the State of Alabama to prepare accordingly. It is important to increase education of department officials, healthcare providers, and the public, with emphasis towards rural communities, densely populated cities, and MSM communities. With an increase in education and preparedness starting at the city level before cases are detected, the state can ensure the most
+
+------------------------------------------------------------------------
+
+## Worksheet 9 11/25/2025
+
+1.  In 2024, a multistate Salmonella outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of Salmonella? In your response, identify at least three practices by backyard poultry owners that increased the risk of Salmonella transmission, and briefly explain why these behaviors facilitated human infection.
+    -   The human behaviors that contributed to the zoonotic spread of Salmonella include inconsistent hygiene, non-standardized management, and high bird-human contact.
+
+        -   Inconsistent hygiene includes inconsistent sanitation and disinfection practices which can lead to a pathogen getting into the soil or water source, and it can allow it to continue to transmit through the flock.
+
+        -   non-standardized management practices in a backyard flock can include not following standard protocol on vaccine procedures as well as not following standard protocol for quarantining birds in the flock if they were to become infected with a disease, allowing that disease to infect a large majority of the flock.
+
+        -   A high bird-human contact in a backyard flock is unregulated especially with children wanting to cuddle and play with chickens in the flock. This increase in contact can directly increase the bird-human transmission of any virus, let alone salmonella.
+
+    -   These factors directly impacted human transmission of salmonella because of the close and constant contact between infected birds and humans, as well as the increase in the probability that the flock will become infected due to improper sanitation practices and vaccine procedures, leading to the virus being transmitted throughout the flock and possibly getting into the soil and water/food sources.
+
+2.  Tall fescue grass is commonly infected with a fungal endophyte (Epichloë coenophiala) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.\
+    a. What advantage does Tall fescue gain from being infected with a fungal endophyte?
+
+    -   Tall fescue grass when infected with a fungal endophyte will be more resistant to stress due to drought, and will also have a better tolerance to grazing due to rapid regrowth.
+
+    b\. What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+
+    -   Environmental and ecological factors that drive the occurrence and severity of fescue toxicosis include high temperatures, drought stress, soil fertility and microbial communities within the soil, and grazing management of the grazing system.
+
+    c\. What are the key clinical signs of fescue toxicity in cattle?
+
+    -   Key clinical signs of fescue toxicity include dramatic weight loss, rough and discolored hair coats, and poor performance. Physiological responses in livestock include a decrease in energy, a decrease in feed efficiency, and an increase in stress.
+
+------------------------------------------------------------------------
+
+## Worksheet 10 11/25/2025
+
+1.  What are the different routes of transmission for African Swine fever? What role do humans play in the spread and transmission of ASF?
+
+    -   Vector-borne: Via *ornithodoros* tick bites.
+
+    -   Direct pig-to-pig contact through blood, saliva, feces
+
+    -   Indirect contact with contaminated materials
+
+    -   Environmental persistence in carcasses and pork products
+
+    -   Humans act as mechanical vectors.
+
+        -   Humans contribute to the spread of ASF by the transportation of contaminated materials.
+
+2.  Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas.
+
+    -   KoRV suppresses the immune system of koalas. If a koala is co-infected, this suppression of the immune system will make chlamydia infections more prevalent and systemically worse, driving mortality and infertility rates.
+
+3.  Snake Fungal Disease (SFD), caused by Ophidiomyces ophiodiicola, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of Snake Fungal Disease (SFD)?
+
+    -   The key challenges associated with the surveillance and management of SFD include false positives on qPCR tests thus requiring multiple swabs on snakes being tested. It can also be difficult to locate snakes that are infected, and rehabilitation of individual infected snakes is not a practical method of design and also does not prevent reinfection.
+
+        -   Supplementary source: <https://pmc.ncbi.nlm.nih.gov/articles/PMC5095536/>

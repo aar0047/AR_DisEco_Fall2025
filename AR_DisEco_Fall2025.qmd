@@ -688,20 +688,20 @@ Overall, the increase in global transmission of Mpox virus raises concern for th
 
     -   March 2025: 3 infected
 
-    -    April 2025: 5 infected
+    -   April 2025: 5 infected
 
-    -    May 2025: 5 infected
+    -   May 2025: 5 infected
 
-    -    June 2025: 8 infected
+    -   June 2025: 8 infected
 
-    -    July 2025: 13 infected
+    -   July 2025: 13 infected
 
 -   (No deaths, births, immigration, or recovery occurred during the study.)
 
     a\. Calculate the monthly incidence of M. leprae infection. Show your calculations and state the units.
 
     |  |  |  |  |  |  |
-    |----|----|----|----|----|----|
+    |------------|------------|------------|------------|------------|------------|
     | **Month** | **Infected total** | **Newly infected** | **Pop. risk** | **\# new cases/pop. risk** | **Incidence** |
     | March | 3 | 3 | 60 | 3/60 x 100 | 5% |
     | April | 5 | 2 | 57 | 2/57 x 100 | 3.5% |
@@ -709,12 +709,12 @@ Overall, the increase in global transmission of Mpox virus raises concern for th
     | June | 8 | 3 | 55 | 3/55 x 100 | 5.45% |
     | July | 13 | 5 | 52 | 5/52 x 100 | 9.6% |
 
-b. Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units.
+b.  Which month had the highest prevalence? Which month had the lowest prevalence? Show your calculations and state the units.
 
 -   The month with the highest prevalence of 21.7 infected per 100 armadillos was June. The month with the lowest prevalence of 5 infected per 100 armadillos was March. Below is the calculated prevalence for each month.
 
     | **Month** | **\# of infected** | **Tot. population** | **\# infected/tot. population** |
-    |----|----|----|----|
+    |------------------|------------------|------------------|------------------|
     | March | 3 | 60 | 3/60 = 0.05 infected armadillos per armadillo (5%) |
     | April | 5 | 60 | 5/60 = 0.0833 infected armadillos per armadillo (8.33%) |
     | May | 5 | 60 | 5/60 = 0.0833 infected armadillos per armadillo (8.33%) |
@@ -741,17 +741,18 @@ b. Which month had the highest prevalence? Which month had the lowest prevalence
 
 6.  Match the following:
 
-    a\. Fungal pathogen of conservation concern 	1. Powassan encephalitis
+    a\. Fungal pathogen of conservation concern 1. Powassan encephalitis
 
-    b\. Avian Vacuolar Myelinopathy 			2. Ophidiomyces ophiodiicola
+    b\. Avian Vacuolar Myelinopathy 2. Ophidiomyces ophiodiicola
 
-    c\. Tick-transmitted viral disease 			3. Borrelia burgdorferi
+    c\. Tick-transmitted viral disease 3. Borrelia burgdorferi
 
-    d\. Foreign Animal Disease 				4. Aetokthonotoxin
+    d\. Foreign Animal Disease 4. Aetokthonotoxin
 
-    e\. Bell’s palsy, Bulls-eye rash 				5. Pseudogymnoascus destructans
+    e\. Bell’s palsy, Bulls-eye rash 5. Pseudogymnoascus destructans
 
-     6. African Swine Fever
+    6.  African Swine Fever
+        -   (a,5), (b,4), (c,1), (d,6), (e,3)
 
 7.  Refer to the life cycle of blacklegged ticks to answer 7a – 7d.
 
